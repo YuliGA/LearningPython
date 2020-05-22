@@ -1,3 +1,6 @@
 ### LearningPython
 
-* **Documentación consultada:** https://entrenamiento-python-basico.readthedocs.io/es/latest/index.html
+##### Referencias:
+
+https://entrenamiento-python-basico.readthedocs.io/es/latest/index.html
+https://realpython.com/
